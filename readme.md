@@ -1,4 +1,4 @@
-# GAT-MF: Graph Attention Mean Field for Very Large Scale Multi-Agent Reinforcement Learning (Submitted to KDD'23)
+# GAT-MF: Graph Attention Mean Field for Very Large Scale Multi-Agent Reinforcement Learning (KDD'23)
 
 ## To run the grid-world experiments, you need:
 - code/grid_simulator/: simultor for the grid-world experiment
